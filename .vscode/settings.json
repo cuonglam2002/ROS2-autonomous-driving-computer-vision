@@ -1,0 +1,25 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/an/ros2_ws/install/self_driving/lib/python3.10/site-packages",
+        "/home/an/an_ws/install/turtlebot3_controller/local/lib/python3.10/dist-packages",
+        "/home/an/an_ws/install/serial_motor_msgs/local/lib/python3.10/dist-packages",
+        "/home/an/an_ws/install/my_package/lib/python3.10/site-packages",
+        "/home/an/autonomous_tb3_ws/install/wheel_vel/lib/python3.10/site-packages",
+        "/home/an/autonomous_tb3_ws/install/vel_driver/lib/python3.10/site-packages",
+        "/home/an/autonomous_tb3_ws/install/autonomous_tb3/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/an/ros2_ws/install/self_driving/lib/python3.10/site-packages",
+        "/home/an/an_ws/install/turtlebot3_controller/local/lib/python3.10/dist-packages",
+        "/home/an/an_ws/install/serial_motor_msgs/local/lib/python3.10/dist-packages",
+        "/home/an/an_ws/install/my_package/lib/python3.10/site-packages",
+        "/home/an/autonomous_tb3_ws/install/wheel_vel/lib/python3.10/site-packages",
+        "/home/an/autonomous_tb3_ws/install/vel_driver/lib/python3.10/site-packages",
+        "/home/an/autonomous_tb3_ws/install/autonomous_tb3/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "ros.distro": "humble"
+}
