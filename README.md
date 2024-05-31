@@ -2,10 +2,6 @@
 
 https://github.com/cuonglam2002/ROS2/assets/145885950/11d23c70-8af7-4e8d-9fc5-4aaf1371c4ad
  
- # ROS2 Hand control
- 
-https://github.com/cuonglam2002/ROS2/assets/145885950/f0c3e040-be85-461c-afe8-8214d95ae3c3
-
 ﻿# ROS2 Detect lane
 
 https://github.com/cuonglam2002/ROS2/assets/145885950/b34312f2-2256-4e7d-a5d1-14f25bd4b497
@@ -18,5 +14,15 @@ https://github.com/cuonglam2002/ROS2/assets/145885950/b46e7a56-1b5c-4998-96ef-d2
 
 https://github.com/cuonglam2002/ROS2/assets/145885950/f7a19a23-f6be-4864-87c1-cb0456489317
 
+ # Hand control
+ 
+https://github.com/cuonglam2002/ROS2/assets/145885950/f0c3e040-be85-461c-afe8-8214d95ae3c3
+
+ #poseDetector
+
+https://github.com/cuonglam2002/ROS2/assets/145885950/d444e101-e582-464b-bcba-b00c40016aa1
+
  ﻿# ROS2 yolo traking
+
+https://github.com/cuonglam2002/ROS2/assets/145885950/db80d3fc-0268-4083-8f98-d738103952ec
   
