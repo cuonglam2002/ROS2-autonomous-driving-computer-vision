@@ -1,6 +1,6 @@
-﻿# ROS2
+﻿# ROS2 Hand control
  
-[Uploading Untitled video - Made with Clipchamp (3).mp4…](https://github.com/cuonglam2002/ROS2/issues/1#issue-2327986043)
+https://github.com/cuonglam2002/ROS2/assets/145885950/f0c3e040-be85-461c-afe8-8214d95ae3c3
 
 
 # ROS2
